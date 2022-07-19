@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Getting Brainly</title>
+	<link href="style.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" type="text/css" href="clippy/build/clippy.css" media="all">
+</head>
+
+<body>
+  <!-- jQuery 1.7+ -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+  <!-- Clippy.js -->
+  <script src="clippy/build/clippy.min.js"></script>
+
+  <script type="text/javascript">
+    clippy.load('Clippy', function(agent) {
+        // Do anything with the loaded agent
+        agent.show();
+        agent.animate();
+    });
+  </script>
+
+</body>
