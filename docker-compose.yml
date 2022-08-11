@@ -1,7 +1,7 @@
 version: "3.9"  # optional since v1.27.0
 services:
   web:
-    build: https://github.com/skAdOOdlEs7/website.git
+    build: .
     image: web-server
     ports:
       - "80:80"
