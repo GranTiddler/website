@@ -219,8 +219,52 @@ body {
 
 <p><a href="https://web.archive.org/web/20200526122758/https://sites.google.com/svvsd.org/svsketchchallenge/challenges">Click here to enter</a></p>
 </div>						<div class="post-footer"><a class="st-vrain-sketch-challenge" href="https://web.archive.org/web/20200526122758/http://ceran.svvsd.org/category/event/st-vrain-sketch-challenge/" title="St. Vrain Sketch Challenge">St. Vrain Sketch Challenge</a> </div>		</div>- / Post -->	
-						
-		
+<script>
+	function games() {
+  var x = document.getElementById("about");
+  var y = document.getElementById("game");
+  var z = document.getElementById("main");
+   
+  y.style.display = "block";
+  x.style.display = "none";
+  z.style.display = "none";
+}
+
+	function about() {
+  var x = document.getElementById("about");
+  var y = document.getElementById("game");
+  var z = document.getElementById("main");
+
+   
+  x.style.display = "block";
+  y.style.display = "none";
+  z.style.display = "none";
+}
+
+	function main() {
+  var x = document.getElementById("about");
+  var y = document.getElementById("game");
+  var z = document.getElementById("main");
+
+   
+  z.style.display = "block";
+  y.style.display = "none";
+  x.style.display = "none";
+}
+
+</script>
+
+<button onclick="games()">game</button>
+<button onclick="main()">main</button>
+<button onclick="about()">about</button>
+
+<style>
+	    .hidden { 
+      display: none; /* hides the element */ 
+    } 
+</style>
+
+<div id="main">	
 <div class="post-17862 post type-post status-publish format-standard hentry category-10th-grade category-6th-grade category-7th-grade category-frederick-high-school category-longs-peak-ms category-st-vrain-sketch-challenge category-westview-middle-school even" id="post-17862">
 	<div class="post-headline">	
 		<h2>
@@ -280,8 +324,20 @@ body {
 		<a href="https://www.google.com/thisshitdontexist">Older Entries &raquo;</a>
 	</div>
 </div>
-    
+</div>
 
+<div id="about" class="hidden">
+	Hi
+</div>
+<div id="game" class="hidden">
+	
+<a href="/strange_games/exposed/">The exposed game</a>
+<p>
+
+</p>
+<a href="/strange_games/Have Fun With Harold/">Have fun with Harold!</a>
+
+</div>
 </td>
 <!-- / Main Column -->
 
