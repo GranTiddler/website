@@ -245,7 +245,7 @@ div.horbar1{
     background:#ffffff
 }
 div.horbar2{
-    /border-top:solid 1px #8c2633;
+    border-top:solid 1px #8c2633;
     height:27px;
     background:#ED3237
 }
@@ -491,14 +491,14 @@ div.post,div.page{
     padding-bottom:20px
 }
 div.sticky{
-    //background:#ffffbb;
+    /*background:#ffffbb;*/
     background:#fff788;
     border:solid 2px #eee;
     padding:5px;
-    //color:#9ec555
+    /*color:#9ec555*/
 }
 div.post-kicker{
-    /margin:0 0 5px 0
+    /*margin:0 0 5px 0*/
 }
 div.post-kicker a:link,div.post-kicker a:visited,div.post-kicker a:active{
     color:#000000;
@@ -1452,7 +1452,8 @@ div#menu1 ul.rMenu li a{
 div#menu2 ul.rMenu li a{
     padding:4px 5px
 }
-div#menu1 ul.rMenu li a:link,div#menu1 ul.rMenu li a:hover,div#menu1 ul.rMenu li a:visited,div#menu1 ul.rMenu li a:active{
+/* include the things in here somehow*/
+div#menu1 ul.rMenu li a,div#menu1 ul.rMenu li a:hover,div#menu1 ul.rMenu li a:visited,div#menu1 ul.rMenu li a:active{
     text-decoration:none;
     margin:0;
     color:#FFFFFF;
@@ -1671,11 +1672,11 @@ h6{
     margin:1.67em 0;
     font-weight:bold;
 }
-div#menu1 ul.rMenu li a:link,div#menu1 ul.rMenu li a:visited,div#menu1 ul.rMenu li a:hover,div#menu1 ul.rMenu li a:active{
+div#menu1 ul.rMenu li a,div#menu1 ul.rMenu li a:visited,div#menu1 ul.rMenu li a:hover,div#menu1 ul.rMenu li a:active{
     font-weight:bold;
     padding:2px 12px
 }
-div#menu2 u1.rMenu li a:link,div#menu2 u1.rMenu li a:visited,div#menu2 u1.rMenu li a:hover,div#menu2 u1.rMenu li a:active{
+div#menu2 u1.rMenu li a,div#menu2 u1.rMenu li a:visited,div#menu2 u1.rMenu li a:hover,div#menu2 u1.rMenu li a:active{
     font-weight:bold;
     padding:2px 12px
 }
