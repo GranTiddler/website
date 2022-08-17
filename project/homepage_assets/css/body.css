@@ -1460,7 +1460,7 @@ div#menu1 ul.rMenu li a,div#menu1 ul.rMenu li a:hover,div#menu1 ul.rMenu li a:vi
     text-transform:none;
     font:18px tahoma,arial,sans-serif;
 }
-div#menu2 ul.rMenu li a:link,div#menu2 ul.rMenu li a:hover,div#menu2 ul.rMenu li a:visited,div#menu2 ul.rMenu li a:active{
+div#menu2 ul.rMenu li a,div#menu2 ul.rMenu li a:hover,div#menu2 ul.rMenu li a:visited,div#menu2 ul.rMenu li a:active{
     text-decoration:none;
     margin:0;
     color:#FFFFFF;
