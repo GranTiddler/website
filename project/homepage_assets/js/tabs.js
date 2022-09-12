@@ -1,32 +1,56 @@
 function games() {
-    var x = document.getElementById("about");
-    var y = document.getElementById("game");
-    var z = document.getElementById("main");
+  console.log("games")
+  var x = document.getElementById("about");
+  var y = document.getElementById("game");
+  var z = document.getElementById("main");
+
+
+  z.style.display = "block";
+  y.style.display = "block";
+  x.style.display = "block";
+}
+
+function about() {
+  console.log("about")
+  var x = document.getElementById("main");
+  var y = document.getElementById("game");
+  var z = document.getElementById("about");
+
+
+  z.style.display = "block";
+  y.style.display = "none";
+  x.style.display = "none";
+}
+
+function main() {
+  console.log("main")
+  var x = document.getElementById("about");
+  var y = document.getElementById("game");
+  var z = document.getElementById("main");
+
+
+  z.style.display = "block";
+  y.style.display = "none";
+  x.style.display = "none";
+}
+
+
+function block(name) {
   
-     
-    y.style.display = "block";
-    x.style.display = "none";
-    z.style.display = "none";
+}
+
+function test(name) {
+  console.log(name);
+  var visible = document.getElementById(name);
+  var hidden = document.getElementsByClassName("tab")
+
+  for (const i of hidden) {
+    if (i.id != name) {
+      i.style.display = "none";
+      console.log(i.id);
+      //block(i.id);
+    }
   }
-  
-  function about() {
-    var x = document.getElementById("about");
-    var y = document.getElementById("game");
-    var z = document.getElementById("main");
-  
-     
-    x.style.display = "block";
-    y.style.display = "none";
-    z.style.display = "none";
-  }
-  
-  function main() {
-    var x = document.getElementById("about");
-    var y = document.getElementById("game");
-    var z = document.getElementById("main");
-  
-     
-    z.style.display = "block";
-    y.style.display = "none";
-    x.style.display = "none";
-  }
+
+  visible.style.display = "block";
+}
