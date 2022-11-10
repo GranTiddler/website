@@ -1,7 +1,12 @@
 version: "3.9"  # optional since v1.27.0
+volumes:
+  files:
+    external: false
+
 services:
   web:
-    build: .
+    build: web
     ports:
       - "80:80"
-
+    volumes:
+      - files:/var/www/html/filesystem

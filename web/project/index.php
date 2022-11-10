@@ -165,9 +165,7 @@ body {
 </div>
 <!-- RECENT COMMENTS
 </div>
-
 <div id="recent-comments-2" class="widget widget_recent_comments"><div class="widget-title"><h3>Recently Approved Comments</h3></div><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"></span> on <a href="https://web.archive.org/web/20200526122758/http://ceran.svvsd.org/2020/04/14/black-white-in-color-honey-bees/#comment-11558">Black &#038; White in Color: Honey Bees</a></li><li class="recentcomments"><span class="comment-author-link"><a href="https://web.archive.org/web/20200526122758/http://ceran/" rel="external nofollow ugc" class="url"></a></span> on <a href="https://web.archive.org/web/20200526122758/http://ceran.svvsd.org/2020/05/08/surrealist-dream/#comment-11557">Surrealist Dream</a></li><li class="recentcomments"><span class="comment-author-link"><a href="https://web.archive.org/web/20200526122758/http://ceran/" rel="external nofollow ugc" class="url">mall</a></span> on <a href="https://web.archive.org/web/20200526122758/http://ceran.svvsd.org/2020/04/14/black-white-in-color-honey-bees/#comment-11554">Black &#038; White in Color: Honey Bees</a></li><li class="recentcomments"><span class="comment-author-link"></span> on <a href="https://web.archive.org/web/20200526122758/http://ceran.svvsd.org/2020/05/08/surrealist-dream/#comment-11553">Surrealist Dream</a></li><li class="recentcomments"><span class="comment-author-link"></span> on <a href="https://web.archive.org/web/20200526122758/http://ceran.svvsd.org/2020/05/08/surrealist-dream/#comment-11548">Surrealist Dream</a></li></ul></div><div id="text-3" class="widget widget_text">
-
 </div>
 -->
 <div class="widget-title"><h3>Information &#038; Tools</h3></div><div class="textwidget"></div>
@@ -214,8 +212,6 @@ body {
 		</div>				<div class="post-bodycopy clearfix">
 <div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://web.archive.org/web/20200526122758/https://sites.google.com/svvsd.org/svsketchchallenge/challenges"><img src="https://web.archive.org/web/20200526122758im_/http://ceran.svvsd.org/wp-content/uploads/sketchbook.png" alt="click here" class="wp-image-17856" width="394" height="267" srcset="https://web.archive.org/web/20200526122758im_/http://ceran.svvsd.org/wp-content/uploads/sketchbook.png 788w, https://web.archive.org/web/20200526122758im_/http://ceran.svvsd.org/wp-content/uploads/sketchbook-768x520.png 768w, https://web.archive.org/web/20200526122758im_/http://ceran.svvsd.org/wp-content/uploads/sketchbook-150x102.png 150w, https://web.archive.org/web/20200526122758im_/http://ceran.svvsd.org/wp-content/uploads/sketchbook-400x271.png 400w" sizes="(max-width: 394px) 100vw, 394px"./></a></figure></div>
 */
-
-
 <p><a href="https://web.archive.org/web/20200526122758/https://sites.google.com/svvsd.org/svsketchchallenge/challenges">Click here to enter</a></p>
 </div>						<div class="post-footer"><a class="st-vrain-sketch-challenge" href="https://web.archive.org/web/20200526122758/http://ceran.svvsd.org/category/event/st-vrain-sketch-challenge/" title="St. Vrain Sketch Challenge">St. Vrain Sketch Challenge</a> </div>		</div>- / Post -->	
 <script type="text/javascript" src="./homepage_assets/js/tabs.js"></script>
@@ -235,27 +231,17 @@ body {
 <div class="post-17862 post type-post status-publish format-standard hentry category-10th-grade category-6th-grade category-7th-grade category-frederick-high-school category-longs-peak-ms category-st-vrain-sketch-challenge category-westview-middle-school even" id="post-17862">
 	<div class="post-headline">	
 		<h2>
-			<a href="404" rel="bookmark" title="bagguette army">marmot</a>
-		</h2>
-	</div>				
-	<div class="post-bodycopy clearfix">
-		<figure class="wp-block-image size-large"><img src="./homepage_assets/images/REPLICATE.png" alt="&quot;&quot;" class="wp-image-17863" title="oh shit they're spreading" sizes="(max-width: 992px) 100vw, 992px"./></figure>
-		<p>By Dart Grindle Photography<br>Secund Best Imeg</p>
-	</div>
-</div>
-	
-<div class="post-17862 post type-post status-publish format-standard hentry category-10th-grade category-6th-grade category-7th-grade category-frederick-high-school category-longs-peak-ms category-st-vrain-sketch-challenge category-westview-middle-school even" id="post-17862">
-	<div class="post-headline">	
-		<h2>
 			<a href="404" rel="bookmark" title="Oui Oui or some shit">BAGUETTE!</a>
 		</h2>
 	</div>				
 	<div class="post-bodycopy clearfix">
 		<p>THIS BITCH WILL EAT YOUR HIKING POLES TRUST ME</p>
 		<figure class="wp-block-image size-large"><img src="./homepage_assets/images/BaguetteV2.jpg" alt="&quot;&quot;" class="wp-image-17863" title="his name is winston the whistle pig btw" sizes="(max-width: 992px) 100vw, 992px"./></figure>
-		<p>By Dart Grindle Photography<br>Best Imeg</p>
+		<p>By Dart Grindle<br>Best Imeg</p>
 	</div>
 </div>
+	
+	
 <div class="post-17851 post type-post status-publish format-standard hentry category-6th-grade category-colored-pencil category-thunder-valley-k8-school even" id="post-17851">
 	<div class="post-headline">
 		<h2>
@@ -362,7 +348,7 @@ body {
 
 <!-- Footer -->
 <td id="footer" colspan="2">
-    Ceran Character and Images - &copy; Copyright Daniel P. Magyar 2012 - Used without Permission  <br>Copyright - lol no <br><br/>Powered by bloodlust</a>    
+    Ceran Character and Images - &copy; Copyright Daniel P. Magyar 2012 - Used with Permission  <br>Copyright © 2020 St. Vrain Valley School District - All Rights Reserved <br> <a href="404">Log in</a><br/>Powered by <a href="404">WordPress</a> &amp; <a href="404">Atahualpa</a>    
     
     <!-- ngg_resource_manager_marker --><script type="text/javascript">
 /* <![CDATA[ */
